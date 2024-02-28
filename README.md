@@ -6,13 +6,16 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+2.7.0
 
 * System dependencies
+bundle install
+yarn install
 
 * Configuration
 
 * Database creation
-
+rails db:create
 * Database initialization
 
 * How to run the test suite
@@ -21,4 +24,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
